@@ -48,3 +48,7 @@ h3 {
 .box-body {
     text-align: center;
 }
+a {
+    text-decoration: none;
+    color: brown;
+}
